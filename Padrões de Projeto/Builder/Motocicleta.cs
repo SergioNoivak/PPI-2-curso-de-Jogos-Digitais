@@ -42,7 +42,6 @@ namespace ConsoleApp2.Padrões_de_Projeto.Builder
         public Produto GetProduto()
         { 
             return this.produto;
-
         }
     }
 }

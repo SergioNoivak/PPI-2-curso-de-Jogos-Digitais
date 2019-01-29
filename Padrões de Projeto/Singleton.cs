@@ -43,4 +43,4 @@ namespace ConsoleApp2.Padrões_de_Projeto
 
 
 //    }
-}
+

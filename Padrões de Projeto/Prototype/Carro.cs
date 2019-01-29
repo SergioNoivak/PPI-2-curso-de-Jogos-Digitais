@@ -22,7 +22,40 @@ namespace ConsoleApp2.Padrões_de_Projeto.Prototype
         /* Se clone for abstrato todas as classes deverao implementa-lo */
             public abstract Carro clone();
         }
-    
+
 }
 
 
+
+
+//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
+//using ConsoleApp2.Padrões_de_Projeto.Prototype;
+
+
+//namespace ConsoleApp2
+//{
+//    class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            Carro nano = new Nano("Nano Verde");
+//            Carro ford = new Ford("Ford Ka");
+
+//            Carro basico;
+//            basico = nano.clone();
+
+
+//            Carro basico2;
+//            basico2 = ford.clone();
+
+//            Console.ReadLine();
+//        }
+
+
+
+//    }
+//}
