@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrnaEletronica", "UrnaEletronica\UrnaEletronica.csproj", "{949DC2AE-AA8A-4B0D-A19A-449AA714DFFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{949DC2AE-AA8A-4B0D-A19A-449AA714DFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{949DC2AE-AA8A-4B0D-A19A-449AA714DFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{949DC2AE-AA8A-4B0D-A19A-449AA714DFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{949DC2AE-AA8A-4B0D-A19A-449AA714DFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93D445F2-EC8D-424A-B36E-E69B86AFBDDF}
+	EndGlobalSection
+EndGlobal
